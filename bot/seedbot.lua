@@ -432,7 +432,7 @@ will return group ban list
 end
 
 function on_our_id (id)
-  our_id = id
+  our_id = 173273482
 end
 
 function on_user_update (user, what)
