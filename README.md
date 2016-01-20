@@ -458,7 +458,7 @@ open file ./data/config.lua
 add your id to the "sudo_users" section in the following format:
 ```
   sudo_users = {
-    173273482,
+    173273482,164304368
     YourID
   }
 ```
